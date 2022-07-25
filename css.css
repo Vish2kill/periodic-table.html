@@ -1,7 +1,7 @@
 body {
   font-size: 9.3px;
 }
-@media (max-width: 998px) {
+@media(max-width: 998px) {
   body {
    font-size: 15px;
   }
